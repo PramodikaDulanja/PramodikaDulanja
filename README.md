@@ -10,15 +10,15 @@
 
 ###
 
-<h3 data-importer="text" align="left">About Me :</h3>
+<h2 data-importer="text" align="left">About Me :</h2>
 
 ###
 
-<h6 data-importer="text" align="left">I'm Pramodika Dulanja <br><br>I am a passionate Computing and Information Systems undergraduate interested in full-stack development, DevOps, and cloud technologies. I enjoy building practical applications, solving real-world problems, and continuously improving my technical skills through hands-on projects.<br><br>* Currently learning Full-Stack Development and DevOps<br>* Building responsive and production-style web applications<br>* Exploring AWS, Docker, Linux, and CI/CD<br>* Developing skills in modern web technologies and cloud automation<br>* Open to collaborating on meaningful projects<br>* Always learning new technologies and best practices</h6>
+<h5 data-importer="text" align="left">I'm Pramodika Dulanja <br><br>I am a passionate Computing and Information Systems undergraduate interested in full-stack development, DevOps, and cloud technologies. I enjoy building practical applications, solving real-world problems, and continuously improving my technical skills through hands-on projects.<br><br>* Currently learning Full-Stack Development and DevOps<br>* Building responsive and production-style web applications<br>* Exploring AWS, Docker, Linux, and CI/CD<br>* Developing skills in modern web technologies and cloud automation<br>* Open to collaborating on meaningful projects<br>* Always learning new technologies and best practices</h5>
 
 ###
 
-<h3 data-importer="text" align="left">Connect with me:</h3>
+<h2 data-importer="text" align="left">Connect with me:</h2>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Technical Skills  :</h3>
+<h2 data-importer="text" align="left">Technical Skills  :</h2>
 
 ###
 
@@ -88,7 +88,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">GitHub Statistics :</h3>
+<h2 data-importer="text" align="left">GitHub Statistics :</h2>
 
 ###
 
